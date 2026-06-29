@@ -1,4 +1,4 @@
-# 
+# Ultimato PantheonOS plugins. Com extração de recursos e tomada de decisão automatizada — otimizado para máximo desempenho.
 
 
 
